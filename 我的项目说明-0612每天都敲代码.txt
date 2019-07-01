@@ -4,3 +4,34 @@ https://github.com/ghnzbd/corn_web
 
 我的。
 2019年6月22日 23:49:37
+以下都是在idea软件中，terminal中执行的：
+
+命令：
+git init
+git remote add origin https://github.com/ghnzbd/corn_web
+
+git add .
+git commit -m "push code first"
+git push
+提示：
+git push --set-upstream origin master
+
+
+创建分支 ：
+git branch web_mouse
+
+查看所有分支：
+git branch -a
+切换分支：
+git checkout web_mouse
+
+合并分支：
+
+
+
+--------------------------test
+north_bank 3
+south_bank
+
+
+
